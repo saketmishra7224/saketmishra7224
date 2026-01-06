@@ -1,111 +1,18 @@
-# 👋 Hi, I’m **Saket Mishra**
+# 💫 About Me:
+ Hi! I'm Saket Mishra, a Computer Science undergraduate passionate about building scalable software and real-world applications.<br><br> Currently in my 3rd year of B.Tech in Computer Science  <br> Interested in Backend Development, AI integration, and System Design  <br> Experienced with Python, C++, JavaScript, Flask, FastAPI, and REST APIs  <br> Built projects involving AI agents, automation, and data-driven applications  <br> Constantly learning and improving my problem-solving and engineering skills  <br><br>Reach me at: your.email@example.com  <br>
 
-### 🚀 Full-Stack Developer | Frontend Specialist | AI Engineer (Beginner)
 
-I am a **3rd-year B.Tech CSE student at SRM University AP**, passionate about building **scalable full-stack apps**, modern **AI tools**, and high-performance **frontend systems**.  
-Former **Frontend Developer Intern at CultureVo**, where I engineered production-ready interfaces for an AI platform used globally.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saketmishra._22241) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saketmishra.99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saket-mishra-1a1b312a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saket_mishra@srmap.edu.in) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 🧑‍💻 About Me
-- Experienced in **MERN Stack**, **Next.js**, and **C++**
-- Skilled in **API Integration, Authentication Systems, Reusable UI, and Performance Optimization**
-- Worked on **real-time systems, AI prototypes, voice-based applications, and automation tools**
-- Delivered **hackathon-winning** applications and multiple production deployments
-- Exploring the intersection of **AI × Full-Stack × Systems Engineering**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saketmishra7224&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 🛠️ Technical Skills
-
-### **Languages**
-C++, JavaScript, Python, C, SQL, Java
-
-### **Frontend**
-React.js • Next.js • HTML • CSS • Bootstrap • Tailwind CSS • Framer Motion
-
-### **Backend**
-Node.js • Express.js • MongoDB • Mongoose • MySQL • REST APIs • FastAPI Integrations • Supabase
-
-### **AI / ML**
-Supervised Learning • PyTorch (Beginner)  
-Pandas • NumPy • Matplotlib • Model Evaluation
-
-### **Developer Tools**
-Git • GitHub • VS Code • Postman • Figma • Agile Development • CI/CD Workflows
-
-### **Core Competencies**
-Full-Stack Development • Real-Time Systems  
-API Integration • Authentication • UI/UX  
-Performance Optimization • DSA • Team Collaboration
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saketmishra7224&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 💼 Experience
-
-### **Frontend Developer Intern — CultureVo (NoviFE Platform)**  
-📆 *May 2025 – October 2025*  
-- Built and deployed a **production-ready frontend** for NoviFE, an AI platform with 50+ AI personalities.  
-- Developed a responsive PWA using **Next.js 15, React 19, Tailwind CSS, Framer Motion**.  
-- Achieved **95% browser compatibility** and **sub-1s load times** through build optimization.  
-- Engineered **VoiceCallUltra** — a WebSocket-based real-time calling system with **50–85% faster responses**.  
-- Integrated **FastAPI + Supabase authentication**, reducing data-fetch latency by **40%**.  
-- Built reusable components for chat, diary, and memory systems, reducing code duplication by **35%**.
-
----
-
-### **Member — NextTech Lab, SRM University**  
-📆 *Feb 2025 – Aug 2025*  
-- Designed AI-driven prototypes with real-time API integrations supporting 50+ concurrent streams.  
-- Mentored junior developers; improved sprint velocity via Agile workflows and Git branching.  
-- Created reusable UI + API design systems, improving maintainability by **25%**.
-
----
-
-## 🏆 Achievements
-- 🥇 **MSC Zerozam 2025 – 1st Place**  
-  Built a full-stack healthcare application with secure workflows.
-- 🥇 **Secure X Hackathon 2024 – Winner**  
-  Created a security-focused Chrome extension with password-protected rate limiting.
-- 🥈 **Geo Genius Olympiad 2018 – Silver Medalist** (95% score among 10,000+ participants)
-
----
-
-## 📦 Featured Projects
-
-### 🔹 **Asses.ai — AI Mock Interview Platform**
-- AI-powered interview simulator using **Gemini, FastAPI, Redis, React**  
-- Real-time adaptive questioning, GitHub/LeetCode scraping  
-- STT + TTS + RAG-powered memory pipeline
-
-### 🔹 **Svalinn — Chrome Extension**
-- Distraction-blocking extension with secure rate limiting  
-- 100+ early testers • **4.8/5 rating**
-
-### 🔹 **Calmify — Full Stack Mental Wellness App**
-- React + Node.js + MongoDB + Azure OpenAI  
-- Real-time chat handling 500+ messages/day with 99% uptime
-
-### 🔹 **RunDown — AI Task Manager**
-- Automates email & calendar tasks using Python + Gemini API  
-- Built a classification pipeline with **90% accuracy**
-
----
-
-## 🔗 Connect With Me
-🌐 **Portfolio:** https://saket-mishra.vercel.app/  
-💼 **LinkedIn:** https://linkedin.com/in/saket-mishra-1a1b312a1  
-💻 **GitHub:** https://github.com/saketmishra7224  
-📱 **Phone:** +91 9569778960  
-📧 **Email:** saket_mishra@srmap.edu.in  
-
----
-
-## ✨ Fun Facts
-- I love converting ideas into polished, functional real-world products.  
-- Enjoy designing systems that scale.  
-- Always learning something new — one commit at a time 🚀  
-
----
-
-⭐ *Thanks for visiting! Check out my repositories or reach out for collaboration.*  
+[![](https://visitcount.itsvg.in/api?id=saketmishra7224&icon=0&color=12)](https://visitcount.itsvg.in)
