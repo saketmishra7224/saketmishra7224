@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi! I'm Saket Mishra, a Computer Science undergraduate passionate about building scalable software and real-world applications.<br><br> Currently in my 3rd year of B.Tech in Computer Science  <br> Interested in Backend Development, AI integration, and System Design  <br> Experienced with Python, C++, JavaScript, Flask, FastAPI, and REST APIs  <br> Built projects involving AI agents, automation, and data-driven applications  <br> Constantly learning and improving my problem-solving and engineering skills  <br><br>Reach me at: saket_mishra@srmap.edu.in  <br>
+ Hi! I'm Saket Mishra, a Computer Science undergraduate passionate about building scalable software and real-world applications.<br><br> Currently in my 4th year of B.Tech in Computer Science  <br> Interested in Backend Development, AI integration, and System Design  <br> Experienced with Python, C++, JavaScript, Flask, FastAPI, and REST APIs  <br> Built projects involving AI agents, automation, and data-driven applications  <br> Constantly learning and improving my problem-solving and engineering skills  <br><br>Reach me at: saket_mishra@srmap.edu.in  <br>
 
 
 ## 🌐 Socials:
